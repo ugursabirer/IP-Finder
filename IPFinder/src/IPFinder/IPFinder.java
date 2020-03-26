@@ -25,6 +25,13 @@ public class IPFinder extends JFrame implements ActionListener {
         setSize(300, 300);
         setLayout(null);
         setVisible(true);
+        
+        addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowClosing(WindowEvent ev) {
+                System.exit(0);
+            }
+        });
     }
 
     @Override
