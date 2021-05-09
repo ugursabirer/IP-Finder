@@ -1,8 +1,7 @@
 # IP-Finder
 IP Finder application using java swing
 
-<h2>Image of IP Finder
-<h2> 
+<h2>Image of IP Finder</h2> 
   
 ![ip1](https://github.com/ugursabirer/IP-Finder/blob/master/ip1.PNG)
 
